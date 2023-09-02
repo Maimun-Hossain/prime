@@ -1,1 +1,2 @@
-console.log("Hello")
+const primeMax = "prime"
+console.log(primeMax);
